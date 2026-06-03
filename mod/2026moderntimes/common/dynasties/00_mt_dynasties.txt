@@ -1,0 +1,284 @@
+﻿dynasty_brones = {
+    name = "Brones"
+    culture = anglo_saxon
+}
+
+dynasty_rust = {
+    name = "Rust"
+    culture = anglo_saxon
+}
+
+dynasty_mcauliffe = {
+    name = "McAuliffe"
+    culture = anglo_saxon
+}
+
+dynasty_hamilton = {
+    name = "Hamilton"
+    culture = anglo_saxon
+}
+
+dynasty_sianez = {
+    name = "Sianez"
+    culture = anglo_saxon
+}
+
+dynasty_gorman = {
+    name = "Gorman"
+    culture = anglo_saxon
+}
+
+dynasty_trump = {
+    name = "Trump"
+    culture = anglo_saxon
+}
+
+dynasty_alabama_gov = {
+    name = "Alabama Governor"
+    culture = anglo_saxon
+}
+
+dynasty_alaska_gov = {
+    name = "Alaska Governor"
+    culture = anglo_saxon
+}
+
+dynasty_arizona_gov = {
+    name = "Arizona Governor"
+    culture = anglo_saxon
+}
+
+dynasty_arkansas_gov = {
+    name = "Arkansas Governor"
+    culture = anglo_saxon
+}
+
+dynasty_california_gov = {
+    name = "California Governor"
+    culture = anglo_saxon
+}
+
+dynasty_colorado_gov = {
+    name = "Colorado Governor"
+    culture = anglo_saxon
+}
+
+dynasty_connecticut_gov = {
+    name = "Connecticut Governor"
+    culture = anglo_saxon
+}
+
+dynasty_delaware_gov = {
+    name = "Delaware Governor"
+    culture = anglo_saxon
+}
+
+dynasty_florida_gov = {
+    name = "Florida Governor"
+    culture = anglo_saxon
+}
+
+dynasty_georgia_gov = {
+    name = "Georgia Governor"
+    culture = anglo_saxon
+}
+
+dynasty_hawaii_gov = {
+    name = "Hawaii Governor"
+    culture = anglo_saxon
+}
+
+dynasty_idaho_gov = {
+    name = "Idaho Governor"
+    culture = anglo_saxon
+}
+
+dynasty_illinois_gov = {
+    name = "Illinois Governor"
+    culture = anglo_saxon
+}
+
+dynasty_indiana_gov = {
+    name = "Indiana Governor"
+    culture = anglo_saxon
+}
+
+dynasty_iowa_gov = {
+    name = "Iowa Governor"
+    culture = anglo_saxon
+}
+
+dynasty_kansas_gov = {
+    name = "Kansas Governor"
+    culture = anglo_saxon
+}
+
+dynasty_kentucky_gov = {
+    name = "Kentucky Governor"
+    culture = anglo_saxon
+}
+
+dynasty_louisiana_gov = {
+    name = "Louisiana Governor"
+    culture = anglo_saxon
+}
+
+dynasty_maine_gov = {
+    name = "Maine Governor"
+    culture = anglo_saxon
+}
+
+dynasty_maryland_gov = {
+    name = "Maryland Governor"
+    culture = anglo_saxon
+}
+
+dynasty_massachusetts_gov = {
+    name = "Massachusetts Governor"
+    culture = anglo_saxon
+}
+
+dynasty_michigan_gov = {
+    name = "Michigan Governor"
+    culture = anglo_saxon
+}
+
+dynasty_minnesota_gov = {
+    name = "Minnesota Governor"
+    culture = anglo_saxon
+}
+
+dynasty_mississippi_gov = {
+    name = "Mississippi Governor"
+    culture = anglo_saxon
+}
+
+dynasty_missouri_gov = {
+    name = "Missouri Governor"
+    culture = anglo_saxon
+}
+
+dynasty_montana_gov = {
+    name = "Montana Governor"
+    culture = anglo_saxon
+}
+
+dynasty_nebraska_gov = {
+    name = "Nebraska Governor"
+    culture = anglo_saxon
+}
+
+dynasty_nevada_gov = {
+    name = "Nevada Governor"
+    culture = anglo_saxon
+}
+
+dynasty_new_hampshire_gov = {
+    name = "New Hampshire Governor"
+    culture = anglo_saxon
+}
+
+dynasty_new_jersey_gov = {
+    name = "New Jersey Governor"
+    culture = anglo_saxon
+}
+
+dynasty_new_mexico_gov = {
+    name = "New Mexico Governor"
+    culture = anglo_saxon
+}
+
+dynasty_new_york_gov = {
+    name = "New York Governor"
+    culture = anglo_saxon
+}
+
+dynasty_north_carolina_gov = {
+    name = "North Carolina Governor"
+    culture = anglo_saxon
+}
+
+dynasty_north_dakota_gov = {
+    name = "North Dakota Governor"
+    culture = anglo_saxon
+}
+
+dynasty_ohio_gov = {
+    name = "Ohio Governor"
+    culture = anglo_saxon
+}
+
+dynasty_oklahoma_gov = {
+    name = "Oklahoma Governor"
+    culture = anglo_saxon
+}
+
+dynasty_oregon_gov = {
+    name = "Oregon Governor"
+    culture = anglo_saxon
+}
+
+dynasty_pennsylvania_gov = {
+    name = "Pennsylvania Governor"
+    culture = anglo_saxon
+}
+
+dynasty_rhode_island_gov = {
+    name = "Rhode Island Governor"
+    culture = anglo_saxon
+}
+
+dynasty_south_carolina_gov = {
+    name = "South Carolina Governor"
+    culture = anglo_saxon
+}
+
+dynasty_south_dakota_gov = {
+    name = "South Dakota Governor"
+    culture = anglo_saxon
+}
+
+dynasty_tennessee_gov = {
+    name = "Tennessee Governor"
+    culture = anglo_saxon
+}
+
+dynasty_texas_gov = {
+    name = "Texas Governor"
+    culture = anglo_saxon
+}
+
+dynasty_utah_gov = {
+    name = "Utah Governor"
+    culture = anglo_saxon
+}
+
+dynasty_vermont_gov = {
+    name = "Vermont Governor"
+    culture = anglo_saxon
+}
+
+dynasty_virginia_gov = {
+    name = "Virginia Governor"
+    culture = anglo_saxon
+}
+
+dynasty_washington_gov = {
+    name = "Washington Governor"
+    culture = anglo_saxon
+}
+
+dynasty_west_virginia_gov = {
+    name = "West Virginia Governor"
+    culture = anglo_saxon
+}
+
+dynasty_wisconsin_gov = {
+    name = "Wisconsin Governor"
+    culture = anglo_saxon
+}
+
+dynasty_wyoming_gov = {
+    name = "Wyoming Governor"
+    culture = anglo_saxon
+}
